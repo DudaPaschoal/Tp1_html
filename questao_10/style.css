@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#card {
+  border-color: red;
+  border-style: dotted;
+  border-width: 2px;
+  text-align: center;
+}
+

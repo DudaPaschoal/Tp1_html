@@ -1,0 +1,28 @@
+@font-face{
+  font-family: myFirstFont;
+  src: url(./Bungee_Tint/BungeeTint-Regular.ttf)
+}
+
+@font-face{
+  font-family: secondFont;
+  src: url(./New_Amsterdam/NewAmsterdam-Regular.ttf)
+}
+@font-face{
+  font-family: thirdFont;
+  src: url(./SUSE/SUSE-VariableFont_wght.ttf)
+}
+
+.p1{
+  font-family: myFirstFont;
+  color: red;
+}
+
+.p2{
+  font-family: secondFont;
+  color: rgb(0, 0, 0);
+}
+
+.p3{
+  font-family: thirdFont;
+  font-optical-sizing: auto;
+}

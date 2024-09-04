@@ -1,0 +1,38 @@
+.p1{
+background-color: aquamarine;
+border: 2px black dashed ;
+font-size: 40;
+font-family: Georgia, 'Times New Roman', Times, serif;
+box-shadow: 10px 20px grey;
+
+}
+
+.p2{
+    background-color: bisque ;
+    border: 2px blue double;
+    border-radius: 10px;
+    font-size: 24;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p3{
+    font-size:  25px;
+    border-top: 30px solid rgb(153, 0, 255);
+    background-color: rgb(243, 150, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+.p3:hover{
+    border-top: 30px solid rgb(0, 0, 0);
+}
+.p4{
+    background-color: rgb(255, 255, 255);
+    border: 4px brown dotted;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.p4:hover{
+    background-color: bisque;
+    border-radius: 10px;
+    border: solid salmon 2px;
+}
